@@ -32,6 +32,23 @@ VocalNote est une application mobile de prise de notes qui permet d'enregistrer 
 
 4. **Enregistrement vocal**
    - Sur l'écran d'entrée de la note, appuyez sur "Enregistrer par la voix" pour dicter une note.
+**installation:**
+
+## Installation
+
+### Prérequis
+
+- Assurez-vous d'avoir [Git](https://git-scm.com/) installé.
+- Installez [Flutter](https://flutter.dev/docs/get-started/install) sur votre système.
+
+### Étapes d'installation
+
+1. Clonez le dépôt GitHub :
+
+   git clone https://github.com/TovoJB/WEEKLY_DECEMBER_MOBILE4.git
+2. cd WEEKLY_DECEMBER_MOBILE4 :
+3. cd flutter pub get :
+3. flutter run :
 
 ### VocalNote/Screenshot
 
