@@ -32,7 +32,6 @@ VocalNote est une application mobile de prise de notes qui permet d'enregistrer 
 
 4. **Enregistrement vocal**
    - Sur l'écran d'entrée de la note, appuyez sur "Enregistrer par la voix" pour dicter une note.
-**installation:**
 
 ## Installation
 
