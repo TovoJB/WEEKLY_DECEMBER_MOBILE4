@@ -46,7 +46,7 @@ VocalNote est une application mobile de prise de notes qui permet d'enregistrer 
 
    git clone https://github.com/TovoJB/WEEKLY_DECEMBER_MOBILE4.git
 2. cd WEEKLY_DECEMBER_MOBILE4 :
-3. cd flutter pub get :
+3. flutter pub get :
 3. flutter run :
 
 ### VocalNote/Screenshot
